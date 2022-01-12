@@ -1,0 +1,6 @@
+===============================================================================
+pubkey: Fr5hLYsr745EEZV4SdJLx9nXFvRWcLw3PCn827rwkWBu
+===============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+latin spirit unusual kidney exist filter logic agent hundred bundle poet borrow
+===============================================================================
